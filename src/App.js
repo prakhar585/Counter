@@ -18,8 +18,8 @@ function App() {
       <h1>Counter App</h1>
       Count: {valueOfCount}
       <br></br>
-      <button onClick={handleIncrement}>increment</button>
-      <button onClick={handleDecrement}>decrement</button>
+      <button onClick={handleIncrement}>Increment</button>
+      <button onClick={handleDecrement}>Decrement</button>
     </div>
   );
 }
